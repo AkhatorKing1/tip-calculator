@@ -327,7 +327,7 @@ input::-webkit-inner-spin-button {
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 800px) {
     .logo {
         width: 86.66px;
         height: 53.14;
@@ -510,7 +510,7 @@ input::-webkit-inner-spin-button {
     }
 }
 
-@media (min-width: 920px) {
+@media (min-width: 1025px) {
     .logo {
         width: 86.66px;
         height: 53.14;
